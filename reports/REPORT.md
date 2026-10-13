@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Võ Doanh Nhân — MSV 2A202602770 (làm cá nhân)  **Commit:** <<COMMIT>>  **Điểm tự động (`make grade`):** 84 / 88 (4 điểm còn lại là dữ liệu SLO ẩn, chỉ giảng viên chấm được)
+**Họ tên / nhóm:** Võ Doanh Nhân — MSV 2A202602770 (làm cá nhân)  **Commit:** ee794ca91e69dffc45b71c911e7f733c23d8dc61 (bản nộp; commit sau đó chỉ ghi hash này vào report)  **Điểm tự động (`make grade`):** 84 / 88 (4 điểm còn lại là dữ liệu SLO ẩn, chỉ giảng viên chấm được)
 
 > Mọi số trong report lấy từ `reports/gameday/*.json`, `reports/cache/*.json`, `reports/workflows.json`,
 > `reports/slo.json` và `reports/experiments.json` (sinh bằng `python scripts/report_experiments.py`, seed 25).
